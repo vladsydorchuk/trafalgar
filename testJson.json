@@ -1,0 +1,18 @@
+{
+    "title": "HTML/CSS",
+    "items": [
+      {
+        "img": "link",
+        "title": "Test",
+        "text": "text",
+        "buttonCaption": "download"
+      },
+      {
+        "img": "link",
+        "title": "Test",
+        "text": "text",
+        "buttonCaption": "download"
+      }
+    ]
+   
+}
