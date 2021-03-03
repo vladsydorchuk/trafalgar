@@ -1,5 +1,7 @@
 {
-    "title": "HTML/CSS",
+data: [
+{
+"title": "HTML/CSS",
     "items": [
       {
         "img": "link",
@@ -14,5 +16,25 @@
         "buttonCaption": "download"
       }
     ]
+},
+{
+"title": "JS Base",
+    "items": [
+      {
+        "img": "link",
+        "title": "Test",
+        "text": "text",
+        "buttonCaption": "download"
+      },
+      {
+        "img": "link",
+        "title": "Test",
+        "text": "text",
+        "buttonCaption": "download"
+      }
+    ]
+}
+]
+    
    
 }
